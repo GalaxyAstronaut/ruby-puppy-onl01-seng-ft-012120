@@ -12,7 +12,7 @@ class Dog
   end
   
   def all 
-  @puppy
+  @all
   end
   
   def self.print_all
