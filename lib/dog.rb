@@ -1,5 +1,4 @@
 
-class Dog 
 # Add your code here
 class Dog 
   
