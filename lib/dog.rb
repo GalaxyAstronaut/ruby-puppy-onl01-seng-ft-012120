@@ -1,5 +1,7 @@
 # Add your code here
 class Dog 
+# Add your code here
+class Dog 
   
   @@all = [] 
   
@@ -7,7 +9,7 @@ class Dog
   
   def initialize(name)
   @name = name
-  @@all << z
+  @@all << name
   end
   
   def all 
